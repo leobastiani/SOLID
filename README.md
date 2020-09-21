@@ -23,7 +23,7 @@
 
 - Essa classe possui interfaces com métodos que não precisam ser implementados necessariamente?
   - Se sim: Refatore.
-- Essa funçāo tem parâmetros que não sáo necessários o tempo todo?
+- Essa funçāo tem parâmetros que não são necessários o tempo todo?
   - Se sim: É possível omitir esses parâmetros?
     - Se não: Refatore.
 
